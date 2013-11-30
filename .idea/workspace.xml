@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="759d0d69-2f17-4695-b7fa-ed62493cf664" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Kyle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyTCPReceiver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyTCPSender.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myHTTPClient.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyTCP.py" afterPath="$PROJECT_DIR$/MyTCP.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OriginServer.py" afterPath="$PROJECT_DIR$/OriginServer.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProxyServer.py" afterPath="$PROJECT_DIR$/ProxyServer.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/driver.py" afterPath="$PROJECT_DIR$/driver.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myTCP.py" afterPath="$PROJECT_DIR$/myTCP.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myNetwork.py" afterPath="$PROJECT_DIR$/myNetwork.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Networking_Project.iws" />
@@ -31,7 +37,25 @@
       <file leaf-file-name="driver.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/driver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="46" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+            <state line="10" column="45" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="272">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyTCPSender.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyTCPSender.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="42" selection-start="944" selection-end="944" vertical-scroll-proportion="0.0" vertical-offset="248" max-vertical-offset="884">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyTCPReceiver.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyTCPReceiver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="0" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="935">
               <folding />
             </state>
           </provider>
@@ -40,7 +64,16 @@
       <file leaf-file-name="myNetwork.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myNetwork.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="12" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+            <state line="10" column="0" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myHTTPClient.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myHTTPClient.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="0" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
               <folding />
             </state>
           </provider>
@@ -49,26 +82,28 @@
       <file leaf-file-name="OriginServer.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OriginServer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="12" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+            <state line="6" column="22" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProxyServer.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ProxyServer.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProxyServer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="-1.2395834" vertical-offset="510" max-vertical-offset="1173">
+            <state line="66" column="38" selection-start="2062" selection-end="2062" vertical-scroll-proportion="0.0" vertical-offset="1000" max-vertical-offset="1564">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myTCP.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myTCP.py">
+      <file leaf-file-name="MyTCP.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyTCP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="18" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
-              <folding />
+            <state line="96" column="16" selection-start="2955" selection-end="2955" vertical-scroll-proportion="0.6803419" vertical-offset="1234" max-vertical-offset="3706">
+              <folding>
+                <element signature="e#21#51#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,11 +126,15 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/myHTTPClient.py" />
+        <option value="$PROJECT_DIR$/myTCP.py" />
         <option value="$PROJECT_DIR$/myNetwork.py" />
         <option value="$PROJECT_DIR$/OriginServer.py" />
         <option value="$PROJECT_DIR$/driver.py" />
-        <option value="$PROJECT_DIR$/myTCP.py" />
         <option value="$PROJECT_DIR$/ProxyServer.py" />
+        <option value="$PROJECT_DIR$/MyTCPReceiver.py" />
+        <option value="$PROJECT_DIR$/MyTCPSender.py" />
+        <option value="$PROJECT_DIR$/MyTCP.py" />
       </list>
     </option>
   </component>
@@ -104,6 +143,25 @@
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -119,7 +177,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -130,29 +188,7 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Networking_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Networking_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Networking_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
@@ -164,7 +200,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="55" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="vcs.CVS" />
+    <property name="options.lastSelected" value="Errors" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/driver.py" />
@@ -313,7 +349,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:/pypy2.1/pypy.exe" />
+      <option name="SDK_HOME" value="C:/Python27/python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -361,7 +397,11 @@
       <created>1381952875223</created>
       <updated>1381952875223</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="basic HTTP server implemented">
+      <created>1382383061869</created>
+      <updated>1382383061869</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -372,11 +412,11 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.6710311" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.6710311" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -387,6 +427,26 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.6710311" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -397,36 +457,18 @@
     </option>
     <MESSAGE value="Initial commit" />
     <MESSAGE value="2nd commit&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd commit&#10;" />
+    <MESSAGE value="basic HTTP server implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="basic HTTP server implemented" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="31" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myNetwork.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="12" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="153">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OriginServer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProxyServer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
           <folding />
         </state>
       </provider>
@@ -443,38 +485,92 @@
         <state line="26" column="0" selection-start="575" selection-end="575" vertical-scroll-proportion="0.63931626" vertical-offset="0" max-vertical-offset="2414" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OriginServer.py">
+    <entry file="file://C:/pypy2.1/lib-python/2.7/httplib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+        <state line="678" column="0" selection-start="22982" selection-end="22982" vertical-scroll-proportion="0.2890625" vertical-offset="11330" max-vertical-offset="22644" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm30/system/python_stubs/1458475226/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1753" column="0" selection-start="57496" selection-end="57496" vertical-scroll-proportion="0.15897436" vertical-offset="29708" max-vertical-offset="69513">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myNetwork.py">
+    <entry file="file://C:/pypy2.1/lib-python/2.7/BaseHTTPServer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+        <state line="343" column="8" selection-start="12632" selection-end="12632" vertical-scroll-proportion="0.33333334" vertical-offset="5592" max-vertical-offset="10302" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm30/system/python_stubs/1458475226/_socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="430" column="8" selection-start="10459" selection-end="10459" vertical-scroll-proportion="0.33333334" vertical-offset="7115" max-vertical-offset="11254">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pypy2.1/lib-python/2.7/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="599" column="40" selection-start="21857" selection-end="21857" vertical-scroll-proportion="0.6964286" vertical-offset="9776" max-vertical-offset="10523">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/driver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="46" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+        <state line="10" column="45" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myTCP.py">
+    <entry file="file://$PROJECT_DIR$/MyTCPSender.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="18" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+        <state line="34" column="42" selection-start="944" selection-end="944" vertical-scroll-proportion="0.0" vertical-offset="248" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyTCPReceiver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="0" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="935">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myNetwork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myHTTPClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OriginServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="22" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProxyServer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="-1.2395834" vertical-offset="510" max-vertical-offset="1173">
+        <state line="66" column="38" selection-start="2062" selection-end="2062" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="1530">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyTCP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="16" selection-start="2955" selection-end="2955" vertical-scroll-proportion="0.6803419" vertical-offset="1234" max-vertical-offset="3706">
+          <folding>
+            <element signature="e#21#51#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
